@@ -1,0 +1,45 @@
+DAY 0: FLASK
+
+AIM: Know the what is flask and its basics
+
+INTRODUCTION:
+
+Articles: 1.https://www.tutorialspoint.com/flask/flask_overview.htm
+         # Flask is a web framework
+	 # Developed by Armin Ronacher
+	 # Flask is used by beginners as it is easy
+    
+         2.https://www.geeksforgeeks.org/python-introduction-to-web-development-using-flask/
+	 
+         #Flask is easier to learn
+	 #Flask is a micro framework
+	 #It uses less base code for implementation
+
+Was curious to learn difference btw django and flask.
+  
+Video: 1.https://www.youtube.com/watch?v=OZ3K4fK9cAQ
+
+	 #Difference between Django and Flask
+		1.Django follows "DRY" approach-Don't Repeat Yourself whereas flask doesn't have such restrictions.
+		2.Django can used with db like mysql,oracle whereas flask can be used with mongoDB
+		3.Django is a fullstack framework whereas flask is a micro framework
+		4.Django has less performance index when compared to flask
+		5.It can be used for big projects whereas flask is best suited for smaller projects
+		6.Django is used by instagram,udemy whereas flask is used by Netflix 🤩
+
+Article:  https://www.geeksforgeeks.org/python-introduction-to-web-development-using-flask/
+		#learnt about the coding
+		
+		#learnt how to write my first hello world 🤩🤩🤩🤩🤩
+
+		#learnt how flask supports the basic HTTP protocols
+
+Video:   https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1515s
+
+	# Did my very first web application using flask
+Name:TASK MASTER 🤩
+   It is just like a simple todo list. It allows you to do three operations: add, delete and update task.
+   I didnt focus more on the UI rather focused python and flask commands.
+
+     
+	 
