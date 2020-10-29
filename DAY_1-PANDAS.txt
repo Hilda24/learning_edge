@@ -1,0 +1,12 @@
+DAY1-Pandas
+
+Article:  1.https://www.geeksforgeeks.org/pandas-tutorial/
+	  #It is an open source library
+	  #It is mainly used for data analysis
+
+
+Task1: Read an csv file
+Task2:Clean the csv file
+
+Video: https://www.youtube.com/watch?v=ZOX18HfLHGQ&t=82s
+	Reads an csv file and clean the 'na' values present in the file and replace them with 0.
