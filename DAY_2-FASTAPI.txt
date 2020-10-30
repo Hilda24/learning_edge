@@ -1,0 +1,12 @@
+DAY2-FASTAPI
+
+Video:  1.https://www.youtube.com/watch?v=5rWGWetiBHo&t=1954s
+
+	#Learnt the basics of Fastapi
+	#Learnt how to setup and import FastApi
+	#Learnt to do an Basic project
+
+       2.https://www.youtube.com/watch?v=Vcqc4GzDvbI&t=2222s
+
+	#Learnt how to set up html and css.
+	#Started building the Sparky project.
