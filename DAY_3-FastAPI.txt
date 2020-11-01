@@ -1,0 +1,8 @@
+DAY-3-Module1 of project
+
+We have to upload a csv file to FastAPI.
+
+Step 1: We create a post in FastAPI. We read the uploaded file using File module which is an built-in module.
+
+Step 2: We pass the file to ConvertBytesintoString function which converts the bytes into String. Then we convert it into Json format as it is the final format we need.
+
