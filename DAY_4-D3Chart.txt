@@ -1,0 +1,12 @@
+DAY4-D3 chart
+
+D3 charts is used to visualize the data. Visualization of data helps us to understand the data better. It helps us to analyse the data and draw useful conclusion.
+It can be used to make different kinds of graphs like Bargraphs,piecharts,linecharts and many more. 
+
+Articles: https://bl.ocks.org/d3noob/8952219
+	  https://gist.github.com/d3noob/8952219
+	  https://www.tutorialsteacher.com/d3js/create-bar-chart-using-d3js
+
+Videos:  https://www.youtube.com/watch?v=n9kKdbzCiLI&t=344s
+	 https://www.youtube.com/watch?v=BDpBAFvdjYo&t=124s
+	 https://www.youtube.com/watch?v=EId9MrEVzW8&t=115s
