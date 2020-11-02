@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <style>
+    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+  </style>
+</head>
+
+<body>
+  <script>
+    d3.csv("votiOne.csv", function(data) {
+
+      var canvas = d3.select("body")
+          .append("svg")
+          .attr("width", 500)
+          .attr("height", 500);
+
+      canvas.selectAll("rect")
+          .data(data)
+          .enter()
+              .append("rect")
+              .attr("width", function (d) { return d.Grade; })
+              .attr("height", 50)
+              .attr("y", function (d, i) { return i * 50; })
+              .attr("fill", "blue");
+
+    })
+  </script>
+</body>
