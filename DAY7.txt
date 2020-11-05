@@ -1,0 +1,11 @@
+DAY7-POSTMAN
+
+VIDEO:https://www.youtube.com/watch?v=juldrxDrSH0&list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C, https://www.youtube.com/watch?v=hHV0OZa4zrQ&list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C&index=2,https://www.youtube.com/watch?v=hHV0OZa4zrQ&list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C&index=3
+
+Things I have learnt:
+#It is an API client
+#It is used develop, test, share and document API
+#Postman UI
+#Making API request
+#What is meant by collections?
+    It is a group of API requests.
